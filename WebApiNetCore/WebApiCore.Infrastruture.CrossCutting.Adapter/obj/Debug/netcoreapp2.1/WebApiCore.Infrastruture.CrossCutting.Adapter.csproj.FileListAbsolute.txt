@@ -1,0 +1,14 @@
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.AssemblyInfo.cs
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.deps.json
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.pdb
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiNetCore.Domain.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.pdb
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp2.1\WebApiNetCore.Domain.pdb
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj.CopyComplete
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.Adapter.pdb

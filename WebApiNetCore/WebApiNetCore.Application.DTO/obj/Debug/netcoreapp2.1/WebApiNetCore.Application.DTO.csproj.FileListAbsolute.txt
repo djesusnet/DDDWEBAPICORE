@@ -1,0 +1,9 @@
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\bin\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.deps.json
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\bin\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\bin\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.pdb
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\obj\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.csprojAssemblyReference.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\obj\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\obj\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\obj\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.AssemblyInfo.cs
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\obj\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiNetCore.Application.DTO\obj\Debug\netcoreapp2.1\WebApiNetCore.Application.DTO.pdb

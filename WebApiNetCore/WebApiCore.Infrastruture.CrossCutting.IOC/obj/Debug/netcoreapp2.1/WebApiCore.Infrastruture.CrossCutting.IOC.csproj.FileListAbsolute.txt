@@ -1,0 +1,9 @@
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.deps.json
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\bin\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.pdb
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.csprojAssemblyReference.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastruture.CrossCutting.IOC\obj\Debug\netcoreapp2.1\WebApiCore.Infrastruture.CrossCutting.IOC.pdb

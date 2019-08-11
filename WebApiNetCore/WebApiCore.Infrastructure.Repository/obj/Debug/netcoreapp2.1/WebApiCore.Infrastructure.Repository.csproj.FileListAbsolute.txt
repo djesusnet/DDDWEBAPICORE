@@ -1,0 +1,9 @@
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\bin\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.deps.json
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\bin\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\bin\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.pdb
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\obj\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\obj\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\obj\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\obj\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\obj\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.dll
+C:\Users\Daniel Jesus\source\repos\WebApiNetCore\WebApiCore.Infrastructure.Repository\obj\Debug\netcoreapp2.1\WebApiCore.Infrastructure.Repository.pdb

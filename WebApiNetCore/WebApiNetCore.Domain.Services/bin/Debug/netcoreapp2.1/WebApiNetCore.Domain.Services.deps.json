@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebApiNetCore.Domain.Services/1.0.0": {
+        "dependencies": {
+          "WebApiNetCore.Domain": "1.0.0",
+          "WebApiNetCore.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebApiNetCore.Domain.Services.dll": {}
+        }
+      },
+      "WebApiNetCore.Domain/1.0.0": {
+        "runtime": {
+          "WebApiNetCore.Domain.dll": {}
+        }
+      },
+      "WebApiNetCore.Domain.Core/1.0.0": {
+        "dependencies": {
+          "WebApiNetCore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApiNetCore.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiNetCore.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiNetCore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiNetCore.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
