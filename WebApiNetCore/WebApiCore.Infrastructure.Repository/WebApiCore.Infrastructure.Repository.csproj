@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiCore.Infrastructure.Data\WebApiCore.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\WebApiNetCore.Domain.Core\WebApiNetCore.Domain.Core.csproj" />
+  </ItemGroup>
 
 </Project>

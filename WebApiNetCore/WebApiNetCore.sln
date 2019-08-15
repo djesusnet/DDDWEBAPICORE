@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore", "WebApiNetCore\WebApiNetCore.csproj", "{C87B13B1-AD33-4A7D-8F71-0DED345BE1E0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - Presentation", "1.0 - Presentation", "{42C6393D-51D6-44FF-9A96-A725E6C051C6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - Application", "2.0 - Application", "{F8EC067F-9AF4-42C1-B875-5ACE5DBB44CC}"
@@ -21,21 +19,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.3 - SQL", "4.3 - SQL", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore.Application", "WebApiNetCore.Application\WebApiNetCore.Application.csproj", "{A9F0DD40-66E3-4D9C-AC99-D1DAD20C3C24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNetCore.Application.DTO", "WebApiNetCore.Application.DTO\WebApiNetCore.Application.DTO.csproj", "{A866F936-E8E8-4E4D-B296-5B29880A43E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore.Application.DTO", "WebApiNetCore.Application.DTO\WebApiNetCore.Application.DTO.csproj", "{A866F936-E8E8-4E4D-B296-5B29880A43E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNetCore.Domain", "WebApiNetCore.Domain\WebApiNetCore.Domain.csproj", "{8FD0C5C0-EFD0-4CAA-A81A-42884244A9DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore.Domain", "WebApiNetCore.Domain\WebApiNetCore.Domain.csproj", "{8FD0C5C0-EFD0-4CAA-A81A-42884244A9DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNetCore.Domain.Core", "WebApiNetCore.Domain.Core\WebApiNetCore.Domain.Core.csproj", "{01C02B48-4316-4947-B8A1-AF801799E610}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore.Domain.Core", "WebApiNetCore.Domain.Core\WebApiNetCore.Domain.Core.csproj", "{01C02B48-4316-4947-B8A1-AF801799E610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNetCore.Domain.Services", "WebApiNetCore.Domain.Services\WebApiNetCore.Domain.Services.csproj", "{5212CF4F-B11D-4557-B035-510F854D2FD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore.Domain.Services", "WebApiNetCore.Domain.Services\WebApiNetCore.Domain.Services.csproj", "{5212CF4F-B11D-4557-B035-510F854D2FD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCore.Infrastructure.Data", "WebApiCore.Infrastructure.Data\WebApiCore.Infrastructure.Data.csproj", "{0D1F3D57-E21B-496E-95D5-B6FE5CD3A897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiCore.Infrastructure.Data", "WebApiCore.Infrastructure.Data\WebApiCore.Infrastructure.Data.csproj", "{0D1F3D57-E21B-496E-95D5-B6FE5CD3A897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCore.Infrastructure.Repository", "WebApiCore.Infrastructure.Repository\WebApiCore.Infrastructure.Repository.csproj", "{87D3A37B-5576-416E-A2F2-3A869DB82661}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiCore.Infrastructure.Repository", "WebApiCore.Infrastructure.Repository\WebApiCore.Infrastructure.Repository.csproj", "{87D3A37B-5576-416E-A2F2-3A869DB82661}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCore.Infrastruture.CrossCutting.Adapter", "WebApiCore.Infrastruture.CrossCutting.Adapter\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj", "{0948709D-DFA2-452E-A05D-B2E89F655472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiCore.Infrastruture.CrossCutting.Adapter", "WebApiCore.Infrastruture.CrossCutting.Adapter\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj", "{0948709D-DFA2-452E-A05D-B2E89F655472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCore.Infrastruture.CrossCutting.IOC", "WebApiCore.Infrastruture.CrossCutting.IOC\WebApiCore.Infrastruture.CrossCutting.IOC.csproj", "{7D307D2E-F74D-4204-B9EB-6E1E90FFD175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiCore.Infrastruture.CrossCutting.IOC", "WebApiCore.Infrastruture.CrossCutting.IOC\WebApiCore.Infrastruture.CrossCutting.IOC.csproj", "{7D307D2E-F74D-4204-B9EB-6E1E90FFD175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCore.Presentation", "WebApiCore.Presentation\WebApiCore.Presentation.csproj", "{DA9A9E5C-DC9A-44E1-891E-AD0FB03D775B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +43,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C87B13B1-AD33-4A7D-8F71-0DED345BE1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C87B13B1-AD33-4A7D-8F71-0DED345BE1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C87B13B1-AD33-4A7D-8F71-0DED345BE1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C87B13B1-AD33-4A7D-8F71-0DED345BE1E0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9F0DD40-66E3-4D9C-AC99-D1DAD20C3C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A9F0DD40-66E3-4D9C-AC99-D1DAD20C3C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F0DD40-66E3-4D9C-AC99-D1DAD20C3C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -83,12 +79,15 @@ Global
 		{7D307D2E-F74D-4204-B9EB-6E1E90FFD175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D307D2E-F74D-4204-B9EB-6E1E90FFD175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D307D2E-F74D-4204-B9EB-6E1E90FFD175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9A9E5C-DC9A-44E1-891E-AD0FB03D775B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9A9E5C-DC9A-44E1-891E-AD0FB03D775B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9A9E5C-DC9A-44E1-891E-AD0FB03D775B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9A9E5C-DC9A-44E1-891E-AD0FB03D775B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C87B13B1-AD33-4A7D-8F71-0DED345BE1E0} = {42C6393D-51D6-44FF-9A96-A725E6C051C6}
 		{47598E49-6575-4603-8582-8937313B5448} = {6D9EC6F2-2828-4B30-99E2-AEDE6623CA23}
 		{34E5ABB5-AB75-4E82-B97A-4F8AC80E73B5} = {6D9EC6F2-2828-4B30-99E2-AEDE6623CA23}
 		{DFBBABBF-05FC-4E7D-B2B0-84321ABE1626} = {6D9EC6F2-2828-4B30-99E2-AEDE6623CA23}
@@ -101,6 +100,7 @@ Global
 		{87D3A37B-5576-416E-A2F2-3A869DB82661} = {47598E49-6575-4603-8582-8937313B5448}
 		{0948709D-DFA2-452E-A05D-B2E89F655472} = {34E5ABB5-AB75-4E82-B97A-4F8AC80E73B5}
 		{7D307D2E-F74D-4204-B9EB-6E1E90FFD175} = {34E5ABB5-AB75-4E82-B97A-4F8AC80E73B5}
+		{DA9A9E5C-DC9A-44E1-891E-AD0FB03D775B} = {42C6393D-51D6-44FF-9A96-A725E6C051C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D0A8D26-6953-462A-9670-4BF2244C0880}

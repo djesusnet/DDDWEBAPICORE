@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WebApiCore.Infrastruture.CrossCutting.Adapter.Interfaces;
 using WebApiCore.Infrastruture.CrossCutting.Adapter.Mappers;
 using WebApiNetCore.Application.DTO.DTO;
 using WebApiNetCore.Application.Interfaces;

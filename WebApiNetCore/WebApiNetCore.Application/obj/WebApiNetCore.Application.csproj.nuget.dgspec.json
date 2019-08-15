@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj": {}
+    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj",
         "projectName": "WebApiCore.Infrastruture.CrossCutting.Adapter",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,20 +23,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj": {
-                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj"
+              "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj"
               },
-              "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj"
+              "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj"
               }
             }
           }
@@ -48,12 +48,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj",
         "projectName": "WebApiNetCore.Application.DTO",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -84,14 +84,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -102,12 +102,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj",
         "projectName": "WebApiNetCore.Application",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application\\WebApiNetCore.Application.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -138,23 +138,23 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj": {
-                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj"
+              "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj": {
+                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.Adapter\\WebApiCore.Infrastruture.CrossCutting.Adapter.csproj"
               },
-              "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj": {
-                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj"
+              "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Application.DTO\\WebApiNetCore.Application.DTO.csproj"
               },
-              "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj"
+              "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj"
               }
             }
           }
@@ -166,12 +166,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj",
         "projectName": "WebApiNetCore.Domain.Core",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain.Core\\WebApiNetCore.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -202,17 +202,17 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj"
+              "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj"
               }
             }
           }
@@ -224,12 +224,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -241,14 +241,14 @@
         }
       }
     },
-    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj",
         "projectName": "WebApiNetCore.Domain",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\WebApiNetCore.Domain.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -260,14 +260,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -278,12 +278,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

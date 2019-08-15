@@ -1,7 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiCore.Infrastructure.Repository\WebApiCore.Infrastructure.Repository.csproj" />
+    <ProjectReference Include="..\WebApiNetCore.Application\WebApiNetCore.Application.csproj" />
+    <ProjectReference Include="..\WebApiNetCore.Domain.Services\WebApiNetCore.Domain.Services.csproj" />
+  </ItemGroup>
 
 </Project>
