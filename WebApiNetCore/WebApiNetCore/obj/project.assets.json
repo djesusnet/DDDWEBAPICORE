@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore\\WebApiNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Jesus\\Source\\Repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore\\WebApiNetCore.csproj",
       "projectName": "WebApiNetCore",
-      "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore\\WebApiNetCore.csproj",
+      "projectPath": "C:\\Users\\Daniel Jesus\\Source\\Repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore\\WebApiNetCore.csproj",
       "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiNetCore\\obj\\",
+      "outputPath": "C:\\Users\\Daniel Jesus\\Source\\Repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

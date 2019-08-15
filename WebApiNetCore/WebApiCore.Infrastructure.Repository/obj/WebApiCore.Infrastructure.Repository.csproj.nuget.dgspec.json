@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj": {}
+    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
         "projectName": "WebApiCore.Infrastructure.Repository",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

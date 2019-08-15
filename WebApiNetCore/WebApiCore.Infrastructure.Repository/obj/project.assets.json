@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Jesus\\Source\\Repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
       "projectName": "WebApiCore.Infrastructure.Repository",
-      "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
+      "projectPath": "C:\\Users\\Daniel Jesus\\Source\\Repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\WebApiCore.Infrastructure.Repository.csproj",
       "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Daniel Jesus\\Source\\Repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastructure.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

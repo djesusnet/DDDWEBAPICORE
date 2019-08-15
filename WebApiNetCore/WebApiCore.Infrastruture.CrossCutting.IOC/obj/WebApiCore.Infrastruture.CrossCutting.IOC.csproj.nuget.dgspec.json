@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj": {}
+    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj": {
+    "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj",
         "projectName": "WebApiCore.Infrastruture.CrossCutting.IOC",
-        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj",
+        "projectPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\WebApiCore.Infrastruture.CrossCutting.IOC.csproj",
         "packagesPath": "C:\\Users\\Daniel Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Jesus\\source\\repos\\DDDWEBAPICORE\\WebApiNetCore\\WebApiCore.Infrastruture.CrossCutting.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
